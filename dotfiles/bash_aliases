@@ -1,0 +1,6 @@
+alias qe-summary='cpm-branch-summary-all cpm-query-engine'
+alias ibc-summary='cpm-branch-summary-all celonis5'
+alias cpm4-summary='cpm-branch-summary-all cpm4'
+alias analysis-summary='cpm-branch-summary-all cpm-analysis'
+
+alias steam_wine="wine /home/onureken/.wine/drive_c/Program\ Files\ \(x86\)/Steam/steam.exe -no-browser +open steam://open/minigameslist"
