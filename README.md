@@ -1,3 +1,3 @@
 # Dotfiles
 
-Managed with [`dotdrop`](https://www.google.com)
+Managed with [`dotdrop`](https://github.com/deadc0de6/dotdrop)
