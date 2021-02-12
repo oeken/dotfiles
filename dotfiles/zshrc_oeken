@@ -1,0 +1,7 @@
+# if CHROMIUM_FLAGS not defined, then define
+if [[ -z "$CHROMIUM_FLAGS" ]]; then
+	export CHROMIUM_FLAGS=""
+fi
+
+# set password store for chromium based browsers (in i3wm chromium browsers do not auto detect)
+CHROMIUM_FLAGS="$CHROMIUM_FLAGS --password-store=gnome"

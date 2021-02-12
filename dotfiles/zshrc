@@ -165,3 +165,8 @@ eval "$(rbenv init -)"
 
 # NODE
 export NODE_OPTIONS=--max_old_space_size=8000
+
+# CUSTOM RC SCRIPT
+if [ -f ~/.zshrc_oeken ]; then
+    . ~/.zshrc_oeken
+fi
