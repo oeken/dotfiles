@@ -131,6 +131,7 @@ assign [class="jetbrains-clion"] $ws2
 
 assign [class="Google-chrome"] $ws3
 assign [class="Opera"] $ws3
+assign [class="Firefox"] $ws3
 
 assign [class="Sublime_text"] $ws4
 
