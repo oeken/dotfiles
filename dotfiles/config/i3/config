@@ -308,3 +308,6 @@ bindsym $mod+Shift+space exec xkb-switch -n
 
 # area screenshot
 bindsym --release Shift+Print exec gnome-screenshot -a
+
+# fullscreen screenshot
+bindsym --release Print exec gnome-screenshot
