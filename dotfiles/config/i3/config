@@ -128,6 +128,7 @@ assign [class="jetbrains-idea-ce"] $ws2
 assign [class="jetbrains-studio"] $ws2
 assign [class="jetbrains-webstorm"] $ws2
 assign [class="jetbrains-clion"] $ws2
+assign [class="jetbrains-pycharm-ce"] $ws2
 
 assign [class="Google-chrome"] $ws3
 assign [class="Opera"] $ws3
