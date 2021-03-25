@@ -114,7 +114,7 @@ set $ws1 "1:  Terminal"
 set $ws2 "2:  Code"
 set $ws3 "3:  Browser"
 set $ws4 "4:  Editor"
-set $ws5 "5"
+set $ws5 "5:  Chat"
 set $ws6 "6"
 set $ws7 "7"
 set $ws8 "8"
@@ -134,6 +134,9 @@ assign [class="Opera"] $ws3
 assign [class="Firefox"] $ws3
 
 assign [class="Sublime_text"] $ws4
+
+assign [class="Slack"] $ws5
+assign [class="zoom"] $ws5
 
 for_window [class="Spotify"] move to workspace $ws10
 
