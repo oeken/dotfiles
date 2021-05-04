@@ -69,6 +69,10 @@ dotfiles:
     src: zshrc_oeken
     dst: ~/.zshrc_oeken
     chmod: '664'
+  f_gitignore:
+    src: gitignore
+    dst: ~/.gitignore
+    chmod: '664'
 profiles:
   celonis-lp-516:
     dotfiles:
@@ -91,3 +95,4 @@ profiles:
     - f_xmodmap
     - f_copyq.conf
     - f_zshrc_oeken
+    - f_gitignore
